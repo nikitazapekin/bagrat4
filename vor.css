@@ -1,0 +1,140 @@
+.left{
+    float: left;
+    margin: 30px 7px 7px 7px;
+}
+.right{
+    float: right;
+    margin: 7px 0 7px 7px;
+}
+
+
+body{
+    background:#c0c0c0;
+}
+
+#wrapper{
+    width: 900px;
+    margin: 0 auto;
+    background:#f2e8c9;
+}
+
+
+
+#header{
+    position:relative;
+    height: 50px;
+    background-color: #ffffff;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    box-shadow: rgba(0,0,0,0.5) 0px 1px 3px;
+}
+img{
+    float: left;
+    margin: -40px 0 0 0;}
+h1{
+    margin:0 0 10px 40px;
+    color:#464451;
+}
+
+
+
+#sidebar{
+    background-color: #ffffff;
+    width: 180px;
+    padding: 10px;
+    float: right;
+    border-radius: 5px;
+    box-shadow: rgba(0,0,0,0.5) 0px 1px 3px;
+}
+.marcer{
+    float: left;
+    margin: 5px 5px 0 0;
+}
+
+
+
+#content{
+    margin-bottom: 5px;
+    width: 676px;
+    padding: 10px;
+    background: #ffffff;
+    border-radius: 5px;
+    box-shadow: rgba(0,0,0,0.5) 0px 1px 3px;
+}
+.left{
+    float: left;
+    margin: 30px 7px 7px 7px;
+}
+.right{
+    float: right;
+    margin: 7px 0 7px 7px;
+    max-width: 200px;
+    max-height:  200px;
+;
+}
+.right:hover {
+    cursor: pointer;
+}
+
+
+#footer{
+    text-align: center;
+
+    height:50px;
+    background-color: #ffffff;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    box-shadow: rgba(0,0,0,0.5) 0px 1px 3px;
+}
+.clear{
+    clear: both;
+}
+.href {
+    color: #da7c0c;
+}
+.href:active {
+    color: #0e6191;
+}
+
+
+#content1{
+    margin-bottom: 5px;
+    width: 676px;
+    padding: 10px;
+    background: #ffffff;
+    border-radius: 5px;
+    box-shadow: rgba(0,0,0,0.5) 0px 1px 3px;
+}
+
+
+#content2{
+    margin-bottom: 5px;
+    width: 676px;
+    padding: 10px;
+    background: #ffffff;
+    border-radius: 5px;
+    box-shadow: rgba(0,0,0,0.5) 0px 1px 3px;
+}
+#content3{
+    margin-bottom: 5px;
+    width: 676px;
+    padding: 10px;
+    background: #ffffff;
+    border-radius: 5px;
+    box-shadow: rgba(0,0,0,0.5) 0px 1px 3px;
+}
+
+.right1{
+
+    margin: 7px 0 7px 7px;
+    max-width: 450px;
+    max-height:  300px;
+
+}
+.right3{
+
+    margin: 7px 0 7px 7px;
+    max-width: 425px;
+    max-height:  275px;
+
+}
